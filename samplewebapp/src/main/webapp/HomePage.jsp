@@ -1,5 +1,7 @@
 <html>
+<title>Home Page</title>
+<head></head>
 <body>
-<h2>Hello World!</h2>
+<h2>Home Page</h2>
 </body>
 </html>

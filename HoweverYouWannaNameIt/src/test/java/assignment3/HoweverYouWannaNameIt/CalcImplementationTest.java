@@ -16,7 +16,7 @@ public class CalcImplementationTest extends TestCase {
 		
 		CalcInterface intObj = mock(CalcInterface.class);
 		when(intObj.add(a, b)).thenReturn(a+b);
-		when(intObj.subtract(a, b)).thenReturn(a-b);
+		when(intObj.subtract(a, b)).thenReturn(a-b);   
 		when(intObj.multiply(a, b)).thenReturn(a*b);
 		when(intObj.divide(a, b)).thenReturn((double) (a/b));
 		
