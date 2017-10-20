@@ -13,7 +13,7 @@ public class TestBook extends TestCase {
 	protected void setUp() throws Exception {
 		book = new Book();
 		author = "Disney";
-		title = "Shrek";
+		title = "Shrek";   
 		genre = "Comedy";
 		copyAmt = 4;
 	}
